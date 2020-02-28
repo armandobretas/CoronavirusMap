@@ -25,7 +25,7 @@
     "android": {
       "package": "br.com.e_infinity.coronavirusmap",
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-2099807487065953~8971794583"
+        "googleMobileAdsAppId": ""
       }
     },
     "description": ""
