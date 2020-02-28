@@ -63,7 +63,7 @@ export default class Map extends React.Component {
         <View style={{ position: "absolute", bottom:0 }}>
           <AdMobBanner
             bannerSize="smartBannerLandscape"
-            adUnitID="ca-app-pub-2099807487065953/2191937274"
+            adUnitID=""
             servePersonalizedAds // true or false
             onDidFailToReceiveAdWithError={this.bannerError}
           />
