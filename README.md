@@ -3,4 +3,4 @@
 > Este aplicativo foi desenvolvido para informar as pessoas sobre o status atual do Coronavirus COVID-19, utilizando 
 > [dados publicos](https://github.com/CSSEGISandData/COVID-19)
 ## Interface
-![](https://i.ibb.co/bXR63gJ/tela.png)
+![](https://i.ibb.co/1JgSLGs/printAPP.png)
