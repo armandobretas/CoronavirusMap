@@ -26,6 +26,9 @@
       "package": "br.com.e_infinity.coronavirusmap",
       "config": {
         "googleMobileAdsAppId": ""
+      },
+      "googleMaps": {
+        "apiKey": ""
       }
     },
     "description": ""
