@@ -18,11 +18,11 @@ export default class Map extends React.Component {
 
   componentDidMount = async () => {
     const response = await axios.get(
-      `https://agendamento.gazin.com.br/dados_covid19.php?dados=geral`
+      `dados_covid19.php?dados=geral`
     );
     this.setState({ dados: response.data });
     const response2 = await axios.get(
-      `https://agendamento.gazin.com.br/dados_covid19.php?dados=kpi`
+      `dados_covid19.php?dados=kpi`
     );
     this.setState({ kpi: response2.data[0] });
   };
